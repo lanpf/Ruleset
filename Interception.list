@@ -8,6 +8,6 @@ DOMAIN,notability.com
 # adguard
 DOMAIN,api.adguard.org
 # paddle
-DOMAIN,v3.paddleapi.com
+# DOMAIN,v3.paddleapi.com
 # mumu
 DOMAIN,mumu.nie.netease.com
