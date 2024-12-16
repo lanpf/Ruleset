@@ -1,7 +1,7 @@
 # screen studio
 PROCESS-NAME,/Applications/Screen Studio.app/Contents/Frameworks/Screen Studio Helper.app/Contents/MacOS/Screen Studio Helper
 PROCESS-NAME,/Applications/Screen Studio.app/Contents/MacOS/Screen Studio
-#DOMAIN,screen.studio
+DOMAIN,screen.studio
 DOMAIN,api.lemonsqueezy.com
 # notability
 DOMAIN,notability.com
