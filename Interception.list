@@ -6,7 +6,7 @@ DOMAIN,api.lemonsqueezy.com
 # notability
 PROCESS-NAME,/Applications/Notability.app/Contents/MacOS/Notability
 DOMAIN,notability.com
-DOMAIN,crashlytics.com
+DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,googleapis.com
 # adguard
 DOMAIN,api.adguard.org
