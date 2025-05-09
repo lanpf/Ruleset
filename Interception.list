@@ -8,7 +8,7 @@ PROCESS-NAME,/Applications/Screen Studio.app/Contents/MacOS/Screen Studio
 DOMAIN,screen.studio
 DOMAIN,api.lemonsqueezy.com
 # usage
-DOMAIN,api.revenuecat.com
+#DOMAIN,api.revenuecat.com
 # notability
 #PROCESS-NAME,/Applications/Notability.app/Contents/MacOS/Notability
 #DOMAIN,notability.com
