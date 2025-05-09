@@ -10,7 +10,7 @@ DOMAIN,api.lemonsqueezy.com
 # usage
 DOMAIN,api.revenuecat.com
 # notability
-PROCESS-NAME,/Applications/Notability.app/Contents/MacOS/Notability
-DOMAIN,notability.com
+#PROCESS-NAME,/Applications/Notability.app/Contents/MacOS/Notability
+#DOMAIN,notability.com
 # mumu
 #DOMAIN,mumu.nie.netease.com
