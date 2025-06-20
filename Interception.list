@@ -9,6 +9,8 @@ DOMAIN,screen.studio
 DOMAIN,api.lemonsqueezy.com
 # usage
 DOMAIN,api.revenuecat.com
+# btt
+PROCESS-NAME,/Applications/BetterTouchTool.app/Contents/MacOS/BetterTouchTool
 # notability
 #PROCESS-NAME,/Applications/Notability.app/Contents/MacOS/Notability
 #DOMAIN,notability.com
