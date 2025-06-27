@@ -9,6 +9,9 @@ DOMAIN,screen.studio
 DOMAIN,api.lemonsqueezy.com
 # usage
 DOMAIN,api.revenuecat.com
+# xmind
+DOMAIN,www.xmind.net
+DOMAIN,www.xmind.cn
 # btt
 PROCESS-NAME,/Applications/BetterTouchTool.app/Contents/MacOS/BetterTouchTool
 # notability
