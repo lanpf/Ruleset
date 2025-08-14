@@ -15,6 +15,4 @@ DOMAIN,www.xmind.cn
 # btt
 PROCESS-NAME,/Applications/BetterTouchTool.app/Contents/MacOS/BetterTouchTool
 # notability
-DOMAIN,notability.com
-# mumu
-#DOMAIN,mumu.nie.netease.com
+# DOMAIN,notability.com
