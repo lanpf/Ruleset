@@ -1,7 +1,5 @@
 # adguard
 DOMAIN,api.adguard.org
-# mountainduck
-DOMAIN,reg.mountainduck.io
 # screen studio
 PROCESS-NAME,/Applications/Screen Studio.app/Contents/Frameworks/Screen Studio Helper.app/Contents/MacOS/Screen Studio Helper
 PROCESS-NAME,/Applications/Screen Studio.app/Contents/MacOS/Screen Studio
@@ -9,8 +7,3 @@ DOMAIN,screen.studio
 DOMAIN,api.lemonsqueezy.com
 # usage
 DOMAIN,api.revenuecat.com
-# xmind
-DOMAIN,www.xmind.net
-DOMAIN,www.xmind.cn
-# btt
-PROCESS-NAME,/Applications/BetterTouchTool.app/Contents/MacOS/BetterTouchTool
